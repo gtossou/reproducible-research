@@ -2,9 +2,7 @@
 ---
 title: "Peer assessment 1"
 author: "Gil TOSSOU"
-date: "May 15, 2016"
-output: 
-  html_document
+date: "June 01, 2016"
 ---
 # Reproducible Research: Peer Assessment 1
 
